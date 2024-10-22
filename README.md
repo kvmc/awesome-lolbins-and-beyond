@@ -14,6 +14,8 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 - [LOLBAS](#lolbas)
 - [LOLDrivers](#loldrivers)
 - [LOOBins](#loobins)
+- [LOLESXi](#lolesxi)
+- [LOL RMM](#lol-rmm)
 - [LOTHardware](#lothardware)
 - [LOTP](#lotp)
 - [LOTS Project](#lots-project)
