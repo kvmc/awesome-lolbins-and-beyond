@@ -94,4 +94,4 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 
 ## WTFBins
 
-- [WTFBins](https://wtfbins.wtf/) - A collection of unexpected behavior in common Unix binaries.
+- [WTFBins](https://wtfbins.wtf/) - A comprehensive repository of suspicious Windows binaries and their behaviors. 
