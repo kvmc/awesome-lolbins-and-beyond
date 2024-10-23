@@ -15,7 +15,7 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 - [LOLDrivers](#loldrivers)
 - [LOOBins](#loobins)
 - [LOLESXi](#lolesxi)
-- [LOL RMM](#lol-rmm)
+- [LOLRMM](#lolrmm)
 - [LOTHardware](#lothardware)
 - [LOTP](#lotp)
 - [LOTS Project](#lots-project)
@@ -68,9 +68,9 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 
 - [LOLESXi](https://lolesxi-project.github.io/LOLESXi/) - Living Off the Land ESXi - A comprehensive list of binaries/scripts natively available in VMware ESXi that adversaries have utilized in their operations.
 
-## LOL RMM
+## LOLRMM
 
-- [LOL RMM](https://lolrmm.io/) - A resource for understanding and utilizing Remote Monitoring and Management (RMM) tools in cybersecurity operations.
+- [LOLRMM](https://lolrmm.io/) - A resource for understanding and utilizing Remote Monitoring and Management (RMM) tools in cybersecurity operations.
 
 ## LOTHardware
 
