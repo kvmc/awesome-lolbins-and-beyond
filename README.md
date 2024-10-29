@@ -7,11 +7,14 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 - [Argument Injection Vectors](#argument-injection-vectors)
 - [Bootloaders](#bootloaders)
 - [Certificates](#certificates)
+- [Evasions](#evasions)
+- [FileSec](#filesec)
 - [GTFO](#gtfo)
 - [Hijack Libraries](#hijack-libraries)
 - [LOFL Project](#lofl-project)
 - [LOLApps](#lolapps)
 - [LOLBAS](#lolbas)
+- [LOLAD](#lolad)
 - [LOLDrivers](#loldrivers)
 - [LOOBins](#loobins)
 - [LOLESXi](#lolesxi)
@@ -19,7 +22,10 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 - [LOTHardware](#lothardware)
 - [LOTP](#lotp)
 - [LOTS Project](#lots-project)
+- [MalAPI](#malapi)
 - [Persistence Information](#persistence-information)
+- [Project Lost](#project-lost)
+- [Sploitify](#sploitify)
 - [WADComs](#wadcoms)
 - [WTFBins](#wtfbins)
 
@@ -34,6 +40,14 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 ## Certificates
 
 - [LoLcerts](https://github.com/WithSecureLabs/lolcerts) - Living Off The Leaked Certificates - A collection of abused code signing certificates.
+
+## Evasions
+
+- [Evasions](https://evasions.checkpoint.com/) - A resource for understanding and implementing various evasion techniques.
+
+## FileSec
+
+- [FileSec](https://filesec.io/) - A comprehensive database of file extensions and their associated security risks.
 
 ## GTFO
 
@@ -55,6 +69,10 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 ## LOLBAS
 
 - [LOLBAS](https://lolbas-project.github.io/#) - Living Off The Land Binaries, Scripts and Libraries for Windows.
+
+## LOLAD
+
+- [LOLAD](https://lolad-project.github.io/) - Living Off the Land in Active Directory - A collection of techniques for exploiting Active Directory environments.
 
 ## LOLDrivers
 
@@ -84,9 +102,21 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 
 - [LOTS Project](https://lots-project.com/) - Living Off Trusted Sites - Legitimate domains that can be abused by attackers.
 
+## MalAPI
+
+- [MalAPI](https://malapi.io/) - A comprehensive Windows API reference for malware analysis and red teaming.
+
 ## Persistence Information
 
 - [Persistence Information](https://persistence-info.github.io/) - A curated resource that compiles various Windows persistence techniques to aid in detection and mitigation strategies.
+
+## Project Lost
+
+- [Project Lost](https://0xanalyst.github.io/Project-Lost/) - A collection of lesser-known techniques and tools for red teaming and penetration testing.
+
+## Sploitify
+
+- [Sploitify](https://sploitify.haxx.it/) - A database of exploits and vulnerabilities for various systems and applications.
 
 ## WADComs
 
@@ -94,4 +124,4 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 
 ## WTFBins
 
-- [WTFBins](https://wtfbins.wtf/) - A comprehensive repository of suspicious Windows binaries and their behaviors. 
+- [WTFBins](https://wtfbins.wtf/) - A comprehensive repository of suspicious Windows binaries and their behaviors.
