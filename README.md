@@ -28,6 +28,7 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 - [Sploitify](#sploitify)
 - [WADComs](#wadcoms)
 - [WTFBins](#wtfbins)
+- [LoLCerts](#LoLCerts)
 
 ## Argument Injection Vectors
 
@@ -125,3 +126,7 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 ## WTFBins
 
 - [WTFBins](https://wtfbins.wtf/) - A comprehensive repository of suspicious Windows binaries and their behaviors.
+
+## LoLCerts
+
+- [LoLCerts](https://github.com/ReversecLabs/lolcerts) - A repository of code signing certificates known to have been leaked or stolen, then abused by threat actors.
