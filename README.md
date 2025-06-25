@@ -29,6 +29,7 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 - [WADComs](#wadcoms)
 - [WTFBins](#wtfbins)
 - [LoLCerts](#LoLCerts)
+- [LOTTunnels](#LOTTunnels)
 
 ## Argument Injection Vectors
 
@@ -130,3 +131,7 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 ## LoLCerts
 
 - [LoLCerts](https://github.com/ReversecLabs/lolcerts) - A repository of code signing certificates known to have been leaked or stolen, then abused by threat actors.
+
+## LOTTunnels
+
+- [LOTTunnels](https://lottunnels.github.io) - Living Off The Tunnels a.k.a LOTTunnels Project is community driven project to document digital tunnels that can be abused by threat actors as well by insiders for data exfiltrations, persistence, shell access etc.
