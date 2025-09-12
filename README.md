@@ -53,7 +53,7 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 - [FileSec](https://filesec.io/) - A comprehensive database of file extensions and their associated security risks.
 
 ## LOLDrivers
--[LOLDrivers](https://www.loldrivers.io) - Living Off The Land Drivers is a curated list of Windows drivers used by adversaries to bypass security controls and carry out attacks.  
+- [LOLDrivers](https://www.loldrivers.io) - Living Off The Land Drivers is a curated list of Windows drivers used by adversaries to bypass security controls and carry out attacks.  
 
 ## GTFO
 
