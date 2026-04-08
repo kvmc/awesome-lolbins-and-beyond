@@ -16,6 +16,7 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 - [LOLApps](#lolapps)
 - [LOLBAS](#lolbas)
 - [LOLAD](#lolad)
+- [LOLADCS](#loladcs)
 - [LOLDrivers](#loldrivers)
 - [LOOBins](#loobins)
 - [LOLESXi](#lolesxi)
@@ -83,6 +84,10 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 ## LOLAD
 
 - [LOLAD](https://lolad-project.github.io/) - Living Off the Land in Active Directory - A collection of techniques for exploiting Active Directory environments.
+
+## LOLADCS
+- [LOLADCS](https://github.com/ZephrFish/LOLADCS) - PowerShell implementation for AD CS
+
 
 ## LOLDrivers
 
