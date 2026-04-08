@@ -31,6 +31,7 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 - [WTFBins](#wtfbins)
 - [LoLCerts](#LoLCerts)
 - [LOTTunnels](#LOTTunnels)
+- [LOLGlobs](#LOTglobs)
 
 ## Argument Injection Vectors
 
@@ -47,6 +48,7 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 ## Evasions
 
 - [Evasions](https://evasions.checkpoint.com/) - A resource for understanding and implementing various evasion techniques.
+- [LOLGlobs](https://0xv1n.github.io/LOLGlobs) - PROCESS EXECUTION THROUGH WILDCARD PATTERN EVASION
 
 ## FileSec
 
