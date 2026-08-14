@@ -20,6 +20,7 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 - [LOLDrivers](#loldrivers)
 - [LOOBins](#loobins)
 - [LOLESXi](#lolesxi)
+- [LOLExfil](#lolexfil)
 - [LOLRMM](#lolrmm)
 - [LOTHardware](#lothardware)
 - [LOTP](#lotp)
@@ -100,6 +101,10 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 ## LOLESXi
 
 - [LOLESXi](https://lolesxi-project.github.io/LOLESXi/) - Living Off the Land ESXi - A comprehensive list of binaries/scripts natively available in VMware ESXi that adversaries have utilized in their operations.
+
+## LOLExfil
+
+- [LOLExfil](https://lolexfil.github.io) - Living Off The Land Exfiltration - A collection of techniques and tools for data exfiltration using built-in or trusted utilities.
 
 ## LOLRMM
 
