@@ -21,6 +21,7 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 - [LOOBins](#loobins)
 - [LOLESXi](#lolesxi)
 - [LOLExfil](#lolexfil)
+- [LOLCreds](#lolcreds)
 - [LOLRMM](#lolrmm)
 - [LOTHardware](#lothardware)
 - [LOTP](#lotp)
@@ -105,6 +106,10 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 ## LOLExfil
 
 - [LOLExfil](https://lolexfil.github.io) - Living Off The Land Exfiltration - A collection of techniques and tools for data exfiltration using built-in or trusted utilities.
+
+## LOLCreds
+
+- [LOLCreds](https://lolcreds.haxx.it/) - A collection of default credentials for various systems and applications.
 
 ## LOLRMM
 
