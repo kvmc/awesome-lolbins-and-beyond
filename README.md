@@ -32,7 +32,6 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 - [Sploitify](#sploitify)
 - [WADComs](#wadcoms)
 - [WTFBins](#wtfbins)
-- [LoLCerts](#LoLCerts)
 - [LOTTunnels](#LOTTunnels)
 - [LOLGlobs](#LOTglobs)
 
@@ -46,7 +45,9 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 
 ## Certificates
 
+- [Cert Graveyard](https://certgraveyard.org) - A graveyard of expired, revoked, and abused code signing certificates used in malware and threat actor operations.
 - [LoLcerts](https://github.com/WithSecureLabs/lolcerts) - Living Off The Leaked Certificates - A collection of abused code signing certificates.
+- [LoLCerts](https://github.com/ReversecLabs/lolcerts) - A repository of code signing certificates known to have been leaked or stolen, then abused by threat actors.
 
 ## Evasions
 
@@ -150,10 +151,6 @@ A curated list of awesome LOLBins, GTFO projects, and similar 'Living Off the La
 ## WTFBins
 
 - [WTFBins](https://wtfbins.wtf/) - A comprehensive repository of suspicious Windows binaries and their behaviors.
-
-## LoLCerts
-
-- [LoLCerts](https://github.com/ReversecLabs/lolcerts) - A repository of code signing certificates known to have been leaked or stolen, then abused by threat actors.
 
 ## LOTTunnels
 
